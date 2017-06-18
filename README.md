@@ -1,4 +1,4 @@
-# 8 Step - React/Redux tutorial series
+# Step - React/Redux series
 
 ## Blog Posts
 
