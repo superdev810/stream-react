@@ -1,4 +1,4 @@
 # Step - React/Redux series
 
-## Blog Posts
+## Queue actions when offline and dispatch them when getting back online.
 
